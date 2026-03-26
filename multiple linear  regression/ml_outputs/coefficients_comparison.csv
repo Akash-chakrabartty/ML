@@ -1,0 +1,4 @@
+parameter,closed_form,sklearn
+beta0 (intercept),-6.867487248,-6.867487248
+beta1 (x1),3.147893103,3.147893103
+beta2 (x2),-1.656143269,-1.656143269
